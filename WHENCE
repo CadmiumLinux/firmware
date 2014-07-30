@@ -1708,6 +1708,8 @@ File: brcm/brcmfmac43236b.bin
 File: brcm/brcmfmac4329.bin
 File: brcm/brcmfmac4330.bin
 File: brcm/brcmfmac4334.bin
+File: brcm/brcmfmac4354-sdio.bin
+File: brcm/brcmfmac4356-pcie.bin
 
 Licence: Redistributable. See LICENCE.broadcom_bcm43xx for details.
 
