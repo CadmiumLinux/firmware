@@ -2284,3 +2284,16 @@ rights and obligations in its use are described as follows:
 5. Moxa(r) is worldwide registered trademark.
 
 --------------------------------------------------------------------------
+
+Driver: cros_ec_pd - Chrome OS EC Power Delivery Device Driver
+
+File: cros-pd/zinger_000001.bin
+Info: FW for Zinger PD device
+Version: 000001 (initial / unstable revision)
+
+License: Redistributable. See LICENSE.cros for details
+
+Built from the source tree:
+https://chromium.googlesource.com/chromiumos/platform/ec/
+
+--------------------------------------------------------------------------
