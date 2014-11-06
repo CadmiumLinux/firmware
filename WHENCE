@@ -2297,3 +2297,11 @@ Built from the source tree:
 https://chromium.googlesource.com/chromiumos/platform/ec/
 
 --------------------------------------------------------------------------
+
+Driver: snd_soc_sst_acpi
+
+File: intel/IntcSST2.bin
+
+License: Redistributable. See LICENCE.IntcSST2 for details
+
+--------------------------------------------------------------------------
