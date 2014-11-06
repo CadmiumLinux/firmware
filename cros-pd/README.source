@@ -4,3 +4,4 @@ https://chromium.googlesource.com/chromiumos/platform/ec/
 git sha1 of build point:
 
 zinger_000002.bin 46102d3b4ed4958986b2272237a33513ee32fc92
+zinger_000003.bin 5cfd6c028b7ee9fe544603cda2e3c218d5cf1094 (signed)
