@@ -3,7 +3,7 @@ https://chromium.googlesource.com/chromiumos/platform/ec/
 
 git sha1 of build point:
 
-zinger_000003.bin 5cfd6c028b7ee9fe544603cda2e3c218d5cf1094 (signed)
-zinger_v1.7.262-9a5b8f4.bin 9a5b8f439742812bb3fe57297af09313fa2efc82 (signed)
-dingdong_v1.7.317-b0bb7c9.bin b0bb7c994b7336a5bab1c8ac047d540d46cf1345 (signed)
-hoho_v1.7.317-b0bb7c9.bin b0bb7c994b7336a5bab1c8ac047d540d46cf1345 (signed)
+dingdong_v1.7.317-b0bb7c9.bin (signed)
+hoho_v1.7.317-b0bb7c9.bin (signed)
+zinger_v1.7.262-9a5b8f4.bin (signed)
+zinger_v1.7.509-e5bffd3.bin (signed)
