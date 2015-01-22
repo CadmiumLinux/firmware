@@ -1,9 +1,4 @@
 Firmware images built from the source tree:
 https://chromium.googlesource.com/chromiumos/platform/ec/
 
-git sha1 of build point:
-
-dingdong_v1.7.317-b0bb7c9.bin (signed)
-hoho_v1.7.317-b0bb7c9.bin (signed)
-zinger_v1.7.262-9a5b8f4.bin (signed)
-zinger_v1.7.509-e5bffd3.bin (signed)
+git sha1 of build point appears in the FW image filename.
