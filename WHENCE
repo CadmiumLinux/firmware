@@ -2329,3 +2329,11 @@ File: intel/IntcSST2.bin
 License: Redistributable. See LICENCE.IntcSST2 for details
 
 --------------------------------------------------------------------------
+
+Driver: snd_intel_sst_core
+
+File: intel/fw_sst_22a8.bin
+
+License: Redistributable. See LICENCE.fw_sst for details
+
+--------------------------------------------------------------------------
