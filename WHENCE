@@ -2348,3 +2348,9 @@ File: img/uccp420wlan/MCP_LOADER.ldr
 License: Redistributable. See LICENSE.imagination for details
 
 --------------------------------------------------------------------------
+
+Driver: xhci-tegra -- NVIDIA Tegra124 XHCI driver
+
+File: nvidia/tegra124/xusb.bin
+
+Licence: Redistributable. See LICENCE.nvidia for details
