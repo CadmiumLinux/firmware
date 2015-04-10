@@ -2352,6 +2352,9 @@ License: Redistributable. See LICENSE.imagination for details
 Driver: xhci-tegra -- NVIDIA Tegra XHCI driver
 
 File: nvidia/tegra124/xusb.bin
+Version: v45.46
+
 File: nvidia/tegra210/xusb.bin
+Version: v50.07
 
 Licence: Redistributable. See LICENCE.nvidia for details
