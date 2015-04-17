@@ -2340,15 +2340,6 @@ License: Redistributable. See LICENCE.fw_sst for details
 
 --------------------------------------------------------------------------
 
-Driver: uccp420wlan
-
-File: img/uccp420wlan/MAC_LOADER.ldr
-File: img/uccp420wlan/MCP_LOADER.ldr
-
-License: Redistributable. See LICENSE.imagination for details
-
---------------------------------------------------------------------------
-
 Driver: xhci-tegra -- NVIDIA Tegra XHCI driver
 
 File: nvidia/tegra124/xusb.bin
