@@ -2533,3 +2533,14 @@ File: rockchip/dptx.bin
 Version: 3.1
 
 Licence: Redistributable. See LICENCE.rockchip for details.
+
+--------------------------------------------------------------------------
+
+Driver: qca - Qualcomm Atheros Bluetooth support for QCA61x4 chips
+
+File: qca/nvm_usb_00000302.bin
+File: qca/rampatch_usb_00000302.bin
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k for details
+
+-------------------------------------------------------------------------
