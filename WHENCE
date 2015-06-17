@@ -2375,7 +2375,7 @@ License: Redistributable. See LICENCE.IntcSST2 for details
 Driver: snd_intel_sst_core
 
 File: intel/fw_sst_22a8.bin
-Version: 01.0B.02.01
+Version: 01.0B.02.02
 
 License: Redistributable. See LICENCE.fw_sst for details
 
