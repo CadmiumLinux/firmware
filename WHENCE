@@ -2500,9 +2500,10 @@ Version: DMC API/ABI ver 1 - release 23 for Skylake
 License: Redistributable. See LICENSE.i915 for details
 
 File: i915/bxt_dmc_ver1_04.bin
+File: i915/bxt_dmc_ver1_05.bin
 
 File: i915/bxt_dmc_ver1.bin
-Version: DMC API/ABI ver 1 - release 04 for Broxton
+Version: DMC API/ABI ver 1 - release 05 for Broxton
 
 File: i915/skl_guc_ver1_1059.bin
 
