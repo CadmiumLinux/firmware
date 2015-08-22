@@ -2768,6 +2768,15 @@ License: Redistributable. See LICENCE.adsp_sst for details
 
 --------------------------------------------------------------------------
 
+Driver: mwlwifi - Marvell mac80211 driver for 80211ac cards.
+
+File: mwlwifi/88W8897.bin
+Version: 8.2.0.10
+
+Licence: Redistributable. See LICENCE.Marvell for details.
+
+--------------------------------------------------------------------------
+
 Driver: rk3399-dptx - ROCKCHIP rk3399 dptx firmware
 
 File: rockchip/dptx.bin
