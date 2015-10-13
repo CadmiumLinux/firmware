@@ -819,6 +819,9 @@ Version: 25.16.12.0
 File: iwlwifi-7260-14.ucode
 Version: 25.30.14.0
 
+File: iwlwifi-7260-16.ucode
+Version: 16.229726.0
+
 File: iwlwifi-3160-7.ucode
 Version: 22.1.7.0
 
@@ -837,6 +840,9 @@ Version: 25.16.12.0
 File: iwlwifi-3160-14.ucode
 Version: 25.30.14.0
 
+File: iwlwifi-3160-16.ucode
+Version: 16.229726.0
+
 File: iwlwifi-7265-8.ucode
 Version: 22.24.8.0
 
@@ -852,6 +858,9 @@ Version: 25.16.12.0
 File: iwlwifi-7265-14.ucode
 Version: 25.30.14.0
 
+File: iwlwifi-7265-16.ucode
+Version: 16.229726.0
+
 File: iwlwifi-7265D-10.ucode
 Version: 23.14.10.0
 
@@ -860,6 +869,9 @@ Version: 25.16.12.0
 
 File: iwlwifi-7265D-14.ucode
 Version: 25.30.14.0
+
+File: iwlwifi-7265D-16.ucode
+Version: 16.229726.0
 
 File: iwlwifi-8000C-14.ucode
 Version: 25.30.14.0
