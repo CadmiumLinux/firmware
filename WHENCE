@@ -2568,6 +2568,13 @@ Version: 01.0B.02.02
 
 License: Redistributable. See LICENCE.fw_sst for details
 
+--------------------------------------------------------------------------
+
+File: intel/dsp_fw_bxt.bin
+Version: 9.00.00.430
+md5sum: a307e8a10045ce78e0744d7479c715a7
+
+License: Redistributable. See LICENCE.adsp_sst for details
 
 --------------------------------------------------------------------------
 
