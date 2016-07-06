@@ -2412,7 +2412,7 @@ License: Redistributable. See LICENSE.i915 for details
 Driver: snd-soc-skl
 
 File: intel/dsp_fw_release.bin
-Version: 8.20.00.948
-md5sum: 472607996014603dca939877bf085d48
+Version: 8.20.00.951
+md5sum: b9eb803923ea32f68599d20a5793d13a
 
 License: Redistributable. See LICENCE.adsp_sst for details
