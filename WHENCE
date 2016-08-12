@@ -2472,6 +2472,12 @@ md5sum: 469dfcf5b2ebbc58505a0cca23303723
 
 License: Redistributable. See LICENCE.adsp_sst for details
 
+File: intel/dsp_fw_kbl.bin
+Version: 09.21.00.1037
+md5sum: e71a2421565fadae228b3924d9510bcb
+
+License: Redistributable. See LICENCE.adsp_sst for details
+
 --------------------------------------------------------------------------
 
 Driver: xhci-tegra -- NVIDIA Tegra XHCI driver
