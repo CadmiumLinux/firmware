@@ -2611,6 +2611,6 @@ License: Redistributable. See LICENCE.adsp_sst for details
 Driver: rk3399-dptx - ROCKCHIP rk3399 dptx firmware
 
 File: rockchip/dptx.bin
-Version: 2.6
+Version: 2.9
 
 Licence: Redistributable. See LICENCE.rockchip for details.
