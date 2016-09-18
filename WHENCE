@@ -2639,7 +2639,25 @@ License: Redistributable. See LICENCE.fw_sst for details
 
 --------------------------------------------------------------------------
 
-File: intel/dsp_fw_bxt.bin
+Driver: snd-soc-skl
+
+File: intel/dsp_fw_release_v827.bin
+Version: 8.20.00.927
+File: intel/dsp_fw_release_v869.bin
+Version; 8.20.00.869
+File: intel/dsp_fw_release_v948.bin
+Version: 8.20.00.948
+File: intel/dsp_fw_release_v951.bin
+Version: 8.20.00.951
+File: intel/dsp_fw_release_v958.bin
+Version: 8.20.00.958
+Link: intel/dsp_fw_release.bin -> dsp_fw_release_v958.bin
+
+License: Redistributable. See LICENCE.adsp_sst for details
+
+File: intel/dsp_fw_bxtn_v430.bin
+Version: 9.00.00.430
+File: intel/dsp_fw_bxtn_v1118.bin
 Version: 9.22.00.1118
 File: intel/dsp_fw_bxtn_v2010.bin
 Version: 9.22.01.2010_44
@@ -2649,15 +2667,14 @@ Link: intel/dsp_fw_bxtn.bin -> intel/dsp_fw_bxtn_v2219.bin
 
 License: Redistributable. See LICENCE.adsp_sst for details
 
-File: intel/dsp_fw_kbl.bin
+File: intel/dsp_fw_kbl_v1037.bin
 Version: 09.21.00.1037
-md5sum: e71a2421565fadae228b3924d9510bcb
+File: intel/dsp_fw_kbl_v2630.bin
+Version: 9.21.00.2630_97
 File: intel/dsp_fw_kbl_v3266.bin
 Version: 9.21.00.3266_144
-md5sum: fc1075485cebfc2ee39ca12ac1fb9ca2
 File: intel/dsp_fw_kbl_v3420.bin
 Version: 9.21.00.3420_163
-md5sum: 09eac60c5ef1e0ee94004811296eaca5
 Link: intel/dsp_fw_kbl.bin -> dsp_fw_kbl_v3420.bin
 
 License: Redistributable. See LICENCE.adsp_sst for details
@@ -2755,16 +2772,6 @@ File: i915/kbl_huc_ver02_00_1810.bin
 Version: HuC API/APB ver 2 - for Kabylake
 
 License: Redistributable. See LICENSE.i915 for details
-
---------------------------------------------------------------------------
-
-Driver: snd-soc-skl
-
-File: intel/dsp_fw_release.bin
-Version: 8.20.00.969
-md5sum: ec8d14d090393c6b0ca5257df222b243
-
-License: Redistributable. See LICENCE.adsp_sst for details
 
 --------------------------------------------------------------------------
 
