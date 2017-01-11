@@ -2479,7 +2479,9 @@ License: Redistributable. See LICENCE.fw_sst for details
 
 File: intel/dsp_fw_bxt.bin
 Version: 9.22.00.1118
-md5sum: 469dfcf5b2ebbc58505a0cca23303723
+File: intel/dsp_fw_bxtn_v2010.bin
+Version: 9.22.01.2010_44
+Link: intel/dsp_fw_bxtn.bin -> intel/dsp_fw_bxtn_v2010.bin
 
 License: Redistributable. See LICENCE.adsp_sst for details
 
