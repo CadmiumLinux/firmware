@@ -2533,8 +2533,8 @@ File: i915/skl_guc_ver1_1059.bin
 Driver: snd-soc-skl
 
 File: intel/dsp_fw_release.bin
-Version: 8.20.00.958
-md5sum: 02bd300f5ef85ae04afffd7c0ef50c46
+Version: 8.20.00.969
+md5sum: ec8d14d090393c6b0ca5257df222b243
 
 License: Redistributable. See LICENCE.adsp_sst for details
 
