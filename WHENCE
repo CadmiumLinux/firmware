@@ -2817,3 +2817,16 @@ File: qca/rampatch_usb_00000302.bin
 Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k for details
 
 -------------------------------------------------------------------------
+
+Driver: adreno - Qualcomm Adreno GPU firmware
+
+File: qcom/a300_pfp.fw
+Link: a300_pfp.fw -> qcom/a300_pfp.fw
+File: qcom/a300_pm4.fw
+Link: a300_pm4.fw -> qcom/a300_pm4.fw
+
+Licence: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
+
+Binary files supplied originally from
+https://developer.qualcomm.com/hardware/dragonboard-410c/tools
+
