@@ -903,6 +903,12 @@ Version 31.532993.0
 File iwlwifi-8265-31.ucode
 Version 31.532993.0
 
+File: iwlwifi-9000-pu-b0-jf-b0-34.ucode
+Version: 34.618819.0
+
+File: iwlwifi-9260-th-b0-jf-b0-34.ucode
+Version: 34.618819.0
+
 Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
 
 Also available from http://wireless.kernel.org/en/users/Drivers/iwlwifi#Firmware
