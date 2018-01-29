@@ -2557,6 +2557,10 @@ License: Redistributable. See LICENCE.adsp_sst for details
 File: intel/dsp_fw_kbl.bin
 Version: 09.21.00.1037
 md5sum: e71a2421565fadae228b3924d9510bcb
+File: intel/dsp_fw_kbl_v3266.bin
+Version: 9.21.00.3266_144
+md5sum: fc1075485cebfc2ee39ca12ac1fb9ca2
+Link: intel/dsp_fw_kbl.bin -> dsp_fw_kbl_v3266.bin
 
 License: Redistributable. See LICENCE.adsp_sst for details
 
