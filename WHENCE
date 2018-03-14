@@ -2560,7 +2560,10 @@ md5sum: e71a2421565fadae228b3924d9510bcb
 File: intel/dsp_fw_kbl_v3266.bin
 Version: 9.21.00.3266_144
 md5sum: fc1075485cebfc2ee39ca12ac1fb9ca2
-Link: intel/dsp_fw_kbl.bin -> dsp_fw_kbl_v3266.bin
+File: intel/dsp_fw_kbl_v3420.bin
+Version: 9.21.00.3420_163
+md5sum: 09eac60c5ef1e0ee94004811296eaca5
+Link: intel/dsp_fw_kbl.bin -> dsp_fw_kbl_v3420.bin
 
 License: Redistributable. See LICENCE.adsp_sst for details
 
