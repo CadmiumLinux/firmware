@@ -931,7 +931,7 @@ File iwlwifi-8265-31.ucode
 Version 31.532993.0
 
 File: iwlwifi-8000C-36.ucode
-Version: 36.05aadbda.0
+Version: 36.a0b3330c.0
 
 File: iwlwifi-8265-21.ucode
 Version: 21.302800.0
@@ -943,7 +943,7 @@ File: iwlwifi-9000-pu-b0-jf-b0-38.ucode
 Version: 38.141d08ac.0
 
 File: iwlwifi-8265-36.ucode
-Version: 36.05aadbda.0
+Version: 36.a0b3330c.0
 
 File: iwlwifi-9000-pu-b0-jf-b0-33.ucode
 Version: 33.610294.0
@@ -954,6 +954,9 @@ Version: 34.ba501b11.0
 File: iwlwifi-9000-pu-b0-jf-b0-38.ucode
 Version: 38.755cfdd8.0
 
+File: iwlwifi-9000-pu-b0-jf-b0-41.ucode
+Version: 38.1f1e8d4a.0
+
 File: iwlwifi-9260-th-b0-jf-b0-33.ucode
 Version: 33.610294.0
 
@@ -962,6 +965,9 @@ Version: 34.ba501b11.0
 
 File: iwlwifi-9260-th-b0-jf-b0-38.ucode
 Version: 38.755cfdd8.0
+
+File: iwlwifi-9260-th-b0-jf-b0-38.ucode
+Version: 38.1f1e8d4a.0
 
 Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
 
