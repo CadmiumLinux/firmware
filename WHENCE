@@ -1828,6 +1828,7 @@ File: amdgpu/raven_pfp.bin
 File: amdgpu/raven_rlc.bin
 File: amdgpu/raven_sdma.bin
 File: amdgpu/raven_vcn.bin
+File: amdgpu/raven_dmcu.bin
 File: amdgpu/picasso_asd.bin
 File: amdgpu/picasso_ce.bin
 File: amdgpu/picasso_gpu_info.bin
