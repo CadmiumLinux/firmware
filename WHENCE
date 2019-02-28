@@ -2657,6 +2657,27 @@ Licence: Redistributable. See LICENCE.nvidia for details
 
 --------------------------------------------------------------------------
 
+Driver: qca - Qualcomm Atheros Bluetooth support for QCA61x4 chips
+
+File: qca/nvm_usb_00000201.bin
+File: qca/nvm_usb_00000200.bin
+File: qca/nvm_usb_00000300.bin
+File: qca/nvm_usb_00000302.bin
+File: qca/nvm_00130300.bin
+File: qca/nvm_00130302.bin
+File: qca/rampatch_usb_00000200.bin
+File: qca/rampatch_usb_00000201.bin
+File: qca/rampatch_usb_00000300.bin
+File: qca/rampatch_usb_00000302.bin
+File: qca/rampatch_00130300.bin
+File: qca/rampatch_00130302.bin
+File: qca/crbtfw21.tlv
+File: qca/crnv21.bin
+
+Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k and qca/NOTICE.txt for details
+
+--------------------------------------------------------------------------
+
 Driver: i915 -- Intel Integrated Graphics driver
 
 File: i915/skl_dmc_ver1_04.bin
