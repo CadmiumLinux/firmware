@@ -2515,6 +2515,11 @@ Version: BT_HarrisonPeak_REL0310
 
 Licence: Redistributable. See LICENCE.ibt_firmware for details
 
+File: rtl_bt/rtl8822cu_fw.bin
+File: rtl_bt/rtl8822cu_config.bin
+
+Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
+
 --------------------------------------------------------------------------
 
 Driver: btmtk_usb - Bluetooth USB driver
