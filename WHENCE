@@ -2848,6 +2848,9 @@ Version: DMC API/ABI ver 1 - release 04 for Geminilake
 File: i915/kbl_huc_ver02_00_1810.bin
 Version: HuC API/APB ver 2 - for Kabylake
 
+File: i915/icl_dmc_ver1_09.bin
+Version: DMC API/ABI ver 1 - release 09 for icelake
+
 File: i915/tgl_dmc_ver2_04.bin
 Version: DMC API/APB ver 2 release 4 for Tigerlake
 License: Redistributable. See LICENSE.i915 for details
