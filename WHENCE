@@ -2653,7 +2653,7 @@ File: intel/dsp_fw_release_v958.bin
 Version: 8.20.00.958
 File: intel/dsp_fw_release_v969.bin
 Version: 8.20.00.969
-Link: intel/dsp_fw_release.bin -> intel/dsp_fw_release_v969.bin
+Link: intel/dsp_fw_release.bin -> dsp_fw_release_v969.bin
 
 License: Redistributable. See LICENCE.adsp_sst for details
 
@@ -2665,7 +2665,7 @@ File: intel/dsp_fw_bxtn_v2010.bin
 Version: 9.22.01.2010_44
 File: intel/dsp_fw_bxtn_v2219.bin
 Version: 9.22.01.2219_64
-Link: intel/dsp_fw_bxtn.bin -> intel/dsp_fw_bxtn_v2219.bin
+Link: intel/dsp_fw_bxtn.bin -> dsp_fw_bxtn_v2219.bin
 
 License: Redistributable. See LICENCE.adsp_sst for details
 
@@ -2692,7 +2692,7 @@ License: Redistributable. See LICENCE.adsp_sst for details
 File: intel/dsp_fw_cnl_v1191.bin
 Version: 10.00.00.1191
 File: intel/dsp_fw_cnl.bin
-Link: intel/dsp_fw_cnl.bin -> intel/dsp_fw_cnl_v1191.bin
+Link: intel/dsp_fw_cnl.bin -> dsp_fw_cnl_v1191.bin
 
 --------------------------------------------------------------------------
 
