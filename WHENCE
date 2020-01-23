@@ -2736,9 +2736,15 @@ rights and obligations in its use are described as follows:
 
 Driver: cros_ec_pd - Chrome OS EC Power Delivery Device Driver
 
-File: cros-pd/zinger_000001.bin
-Info: FW for Zinger PD device
-Version: 000001 (initial / unstable revision)
+File: cros-pd/dingdong_v1.7.317-b0bb7c9.bin
+File: cros-pd/dingdong_v1.7.575-96b74f1.bin
+File: cros-pd/dingdong_v1.7.684-69498dd.bin
+File: cros-pd/hoho_v1.7.317-b0bb7c9.bin
+File: cros-pd/hoho_v1.7.575-96b74f1.bin
+File: cros-pd/hoho_v1.7.684-69498dd.bin
+File: cros-pd/zinger_v1.7.509-e5bffd3.bin
+File: cros-pd/zinger_v1.7.539-91a0fa2.bin
+Source: cros-pd/README.source
 
 License: Redistributable. See LICENSE.cros for details
 
