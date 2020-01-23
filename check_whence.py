@@ -40,6 +40,11 @@ def main():
     known_prefixes = set(name for name in whence_list if name.endswith('/'))
     git_files = set(list_git())
 
+    known_files |= set(['OWNERS',
+                        'PRESUBMIT.cfg',
+                        'README.chromium.md',
+                       ])
+
     for name in sorted(list(known_files - git_files)):
         sys.stderr.write('E: %s listed in WHENCE does not exist\n' % name)
 
