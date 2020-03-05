@@ -2563,6 +2563,8 @@ Licence: Redistributable. See LICENCE.ibt_firmware for details
 
 File: rtl_bt/rtl8822cu_fw.bin
 File: rtl_bt/rtl8822cu_config.bin
+File: rtl_bt/rtl8822cs_fw.bin
+File: rtl_bt/rtl8822cs_config.bin
 
 Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details.
 
