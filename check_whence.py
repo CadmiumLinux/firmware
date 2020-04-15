@@ -60,8 +60,6 @@ def main():
         'intel/ibt-19-0-0.sfi',
         'intel/ibt-19-0-1.ddc',
         'intel/ibt-19-0-1.sfi',
-        'iwlwifi-7265D-22.ucode',
-        'iwlwifi-7265D-27.ucode',
         'iwlwifi-9000-pu-b0-jf-b0-43.ucode',
         'iwlwifi-9000-pu-b0-jf-b0-46.ucode',
         'iwlwifi-9260-th-b0-jf-b0-41.ucode',
