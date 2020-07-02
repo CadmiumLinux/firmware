@@ -921,6 +921,15 @@ Version: 58.943456b4.0
 File: iwlwifi-cc-a0-58.ucode
 Version: 58.943456b4.0
 
+File: iwlwifi-Qu-c0-hr-b0-60.ucode
+Version: 60.84d9abea.0
+
+File: iwlwifi-QuZ-a0-hr-b0-60.ucode
+Version: 60.84d9abea.0
+
+File: iwlwifi-cc-a0-60.ucode
+Version: 60.84d9abea.0
+
 File: iwl-dbg-cfg.ini
 
 Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
