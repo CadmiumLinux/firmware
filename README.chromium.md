@@ -88,7 +88,7 @@ more likely for our systems to keep working across kernel uprevs and also
 more likely that someone upstream will fix a problem and we'll get the fix
 through stable merges.
 
-[Chrome OS kernel upstream process]: https://chromium.googlesource.com/chromiumos/docs/+/master/kernel_faq.md#UPSTREAM_BACKPORT_FROMLIST_and-you
+[Chrome OS kernel upstream process]: https://chromium.googlesource.com/chromiumos/docs/+/master/kernel_development.md#UPSTREAM_BACKPORT_FROMLIST_and-you
 [linux-firmware ebuild file]: https://chromium.googlesource.com/chromiumos/overlays/chromiumos-overlay/+/refs/heads/master/sys-kernel/linux-firmware/linux-firmware-9999.ebuild
 [README]: ./README
 [upstream WHENCE]: https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/WHENCE
