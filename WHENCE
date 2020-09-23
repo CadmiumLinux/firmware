@@ -921,6 +921,8 @@ Version: 58.943456b4.0
 File: iwlwifi-cc-a0-58.ucode
 Version: 58.943456b4.0
 
+File: iwl-dbg-cfg.ini
+
 Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
 
 Also available from http://wireless.kernel.org/en/users/Drivers/iwlwifi#Firmware
