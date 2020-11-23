@@ -933,6 +933,9 @@ Version: 60.84d9abea.0
 File: iwlwifi-ty-a0-gf-a0-60.ucode
 Version: 60.84d9abea.0
 
+File: iwlwifi-ty-a0-gf-a0-61.ucode
+Version: 61.8a58813e.0
+
 File: iwl-dbg-cfg.ini
 
 Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
