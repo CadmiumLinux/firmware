@@ -951,6 +951,9 @@ Version: 64.a86c746b.0
 File: iwlwifi-QuZ-a0-hr-b0-65.ucode
 Version: 65.5ecbd6da.0
 
+File: iwlwifi-QuZ-a0-hr-b0-66.ucode
+Version: 66.272d3347.0
+
 File: iwlwifi-cc-a0-62.ucode
 Version: 62.70c0843f.0
 
@@ -962,6 +965,9 @@ Version: 64.a86c746b.0
 
 File: iwlwifi-cc-a0-65.ucode
 Version: 65.5ecbd6da.0
+
+File: iwlwifi-cc-a0-66.ucode
+Version: 66.272d3347.0
 
 File: iwlwifi-ty-a0-gf-a0-60.ucode
 Version: 60.84d9abea.0
