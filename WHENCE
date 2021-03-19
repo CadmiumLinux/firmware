@@ -3052,6 +3052,17 @@ Licence: Redistributable. See LICENCE.rockchip for details.
 
 --------------------------------------------------------------------------
 
+Driver: mt7921 - MediaTek MT7921 Wireless MACs
+
+File: mediatek/WIFI_MT7961_patch_mcu_1_2_hdr.bin
+Version: 20210122002654a
+File: mediatek/WIFI_RAM_CODE_MT7961_1.bin
+Version: 20210122002730
+
+Licence: Redistributable. See LICENCE.mediatek for details.
+
+--------------------------------------------------------------------------
+
 Driver: venus - Qualcomm Venus video codec accelerator
 
 File: qcom/venus-5.2/venus.mdt
