@@ -945,11 +945,17 @@ Version: 62.70c0843f.0
 File: iwlwifi-QuZ-a0-hr-b0-63.ucode
 Version: 63.c04f3485.0
 
+File: iwlwifi-QuZ-a0-hr-b0-64.ucode
+Version: 64.a86c746b.0
+
 File: iwlwifi-cc-a0-62.ucode
 Version: 62.70c0843f.0
 
 File: iwlwifi-cc-a0-63.ucode
 Version: 63.c04f3485.0
+
+File: iwlwifi-cc-a0-64.ucode
+Version: 64.a86c746b.0
 
 File: iwlwifi-ty-a0-gf-a0-60.ucode
 Version: 60.84d9abea.0
@@ -959,8 +965,6 @@ Version: 61.8a58813e.0
 
 File: iwlwifi-ty-a0-gf-a0-63.ucode
 Version: 63.70c0843f.0
-
-File: iwlwifi-ty-a0-gf-a0.pnvm
 
 File: iwl-dbg-cfg.ini
 
