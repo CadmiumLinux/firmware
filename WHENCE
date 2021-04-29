@@ -3135,6 +3135,8 @@ File: qcom/a530_zap.b02
 File: qcom/a530_zap.mdt
 File: qcom/a630_gmu.bin
 File: qcom/a630_sqe.fw
+File: qcom/a660_gmu.bin
+File: qcom/a660_sqe.fw
 
 Licence: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
 
