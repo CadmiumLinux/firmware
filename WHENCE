@@ -2485,6 +2485,8 @@ Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k for details
 Driver: ath11k - Qualcomm Technologies 802.11ax chipset support
 
 File: ath11k/IPQ6018/hw1.0/board-2.bin
+File: ath11k/WCN6855/hw2.0/amss.bin
+File: ath11k/WCN6855/hw2.0/m3.bin
 
 Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k for details
 
