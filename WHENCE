@@ -975,6 +975,11 @@ Version: 66.272d3347.0
 File: iwlwifi-cc-a0-67.ucode
 Version: 67.1a72d8bc.0
 
+File: iwlwifi-so-a0-gf-a0-67.ucode
+Version: 67.1a72d8bc.0
+
+File: iwlwifi-so-a0-gf-a0.pnvm
+
 File: iwlwifi-ty-a0-gf-a0-60.ucode
 Version: 60.84d9abea.0
 
