@@ -960,6 +960,9 @@ Version: 67.fc8ea82d.0
 File: iwlwifi-QuZ-a0-hr-b0-68.ucode
 Version: 68.474a6b2c.0
 
+File: iwlwifi-QuZ-a0-hr-b0-71.ucode
+Version: 71.058653f6.0
+
 File: iwlwifi-cc-a0-62.ucode
 Version: 62.70c0843f.0
 
@@ -980,6 +983,9 @@ Version: 67.fc8ea82d.0
 
 File: iwlwifi-cc-a0-68.ucode
 Version: 68.474a6b2c.0
+
+File: iwlwifi-cc-a0-71.ucode
+Version: 71.058653f6.0
 
 File: iwlwifi-so-a0-gf-a0-67.ucode
 Version: 67.4f1d4338.0
