@@ -2712,9 +2712,9 @@ Version: BT_HarrisonPeak_REL31749
 File:intel/ibt-19-240-4.ddc
 Version: BT_HarrisonPeak_REL31749
 File:intel/ibt-0040-0041.sfi
-Version: BT_GarfieldPeak_REL31586
+Version: BT_GarfieldPeak_REL31878
 File:intel/ibt-0040-0041.ddc
-Version: BT_GarfieldPeak_REL31586
+Version: BT_GarfieldPeak_REL31878
 
 
 Licence: Redistributable. See LICENCE.ibt_firmware for details
