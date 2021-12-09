@@ -3088,6 +3088,9 @@ Version: DMC API/APB ver 2 release 9 for Alderlake P
 File: i915/adlp_dmc_ver2_10.bin
 Version: DMC API/APB ver 2 release 10 for Alderlake P
 
+File: i915/adlp_dmc_ver2_14.bin
+Version: DMC API/APB ver 2 release 14 for Alderlake P
+
 File: i915/adlp_guc_62.0.3.bin
 Version: GuC API/APB ver 62.0.3 for Alderlake P
 
