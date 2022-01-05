@@ -15,6 +15,10 @@ If we have to (due to an urgent bugfix) we can make local (CHROMIUM) changes
 here but the policy is that things that get put here are on their way
 to the upstream linux-firmware project.
 
+Also, matching the kernel policies, changes to files like OWNERS or this
+README should be marked CHROMIUM indicating that they're not ever going
+upstream.
+
 See also the [README] file here, which comes from upstream.
 
 ## The WHENCE file
