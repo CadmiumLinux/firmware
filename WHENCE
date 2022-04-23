@@ -2556,6 +2556,18 @@ File: ath11k/WCN6855/hw2.0/board-2.bin
 File: ath11k/WCN6855/hw2.0/regdb.bin
 File: ath11k/WCN6855/hw2.0/regdb-2.bin
 File: ath11k/WCN6750/hw1.0/board-2.bin
+File: ath11k/WCN6750/hw1.0/wpss.b00
+File: ath11k/WCN6750/hw1.0/wpss.b01
+File: ath11k/WCN6750/hw1.0/wpss.b02
+File: ath11k/WCN6750/hw1.0/wpss.b03
+File: ath11k/WCN6750/hw1.0/wpss.b04
+File: ath11k/WCN6750/hw1.0/wpss.b05
+File: ath11k/WCN6750/hw1.0/wpss.b06
+File: ath11k/WCN6750/hw1.0/wpss.b07
+File: ath11k/WCN6750/hw1.0/wpss.b08
+File: ath11k/WCN6750/hw1.0/wpss.mdt
+Version: WLAN.MSL.1.0.1-00887-QCAMSLSWPLZ-1
+File: ath11k/WCN6750/hw1.0/Notice.txt
 
 Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k for details
 
