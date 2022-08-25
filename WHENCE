@@ -3455,6 +3455,9 @@ Version: Huc API/APB ver 7 release 5 for Tigerlake
 File: i915/tgl_huc_7.9.3.bin
 Version: HuC API/APB ver 7.9.3 for Tigerlake
 
+File: i915/tgl_huc.bin
+Version: HuC API/APB ver 7.9.3 for Tigerlake
+
 File: i915/dg1_guc_62.0.0.bin
 Version: GuC API/APB ver 62.0.0 for DG1
 
@@ -3472,6 +3475,9 @@ Version: HuC API/APB ver 7.9.3 for DG1
 
 File: i915/dg2_guc_70.bin
 Version: GuC API/APB ver 70.5.1 for DG2
+
+File: i915/dg1_huc.bin
+Version: HuC API/APB ver 7.9.3 for DG1
 
 File: i915/adlp_dmc_ver2_09.bin
 Version: DMC API/APB ver 2 release 9 for Alderlake P
