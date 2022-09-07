@@ -85,6 +85,7 @@ def main():
     known_files |= set(['OWNERS',
                         'PRESUBMIT.cfg',
                         'README.chromium.md',
+                        'DIR_METADATA',
                        ])
 
     for name in sorted(list(known_files - git_files)):
