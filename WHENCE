@@ -1037,8 +1037,6 @@ Version: 61.8a58813e.0
 File: iwlwifi-ty-a0-gf-a0-63.ucode
 Version: 63.70c0843f.0
 
-File: iwl-dbg-cfg.ini
-
 Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
 
 Also available from http://wireless.kernel.org/en/users/Drivers/iwlwifi#Firmware
