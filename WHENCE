@@ -1026,7 +1026,13 @@ Version: 74.5d560e6d.0
 File: iwlwifi-so-a0-gf-a0-77.ucode
 Version: 74.54a2499f.0
 
+File: iwlwifi-so-a0-gf-a0-79.ucode
+Version: 76:27f1c37b.0
+
 File: iwlwifi-so-a0-gf-a0.pnvm
+
+File: iwlwifi-so-a0-hr-b0-79.ucode
+Version: 76:27f1c37b.0
 
 File: iwlwifi-ty-a0-gf-a0-60.ucode
 Version: 60.84d9abea.0
