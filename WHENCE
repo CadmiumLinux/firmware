@@ -2809,9 +2809,9 @@ Version: BT_HarrisonPeak_REL53347
 File:intel/ibt-19-240-4.ddc
 Version: BT_HarrisonPeak_REL53347
 File:intel/ibt-0040-0041.sfi
-Version: BT_GarfieldPeak_REL56683
+Version: BT_GarfieldPeak_REL58403
 File:intel/ibt-0040-0041.ddc
-Version: BT_GarfieldPeak_REL56683
+Version: BT_GarfieldPeak_REL58403
 
 
 Licence: Redistributable. See LICENCE.ibt_firmware for details
