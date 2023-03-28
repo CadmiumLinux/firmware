@@ -3466,6 +3466,9 @@ Version: GuC API/APB ver 70.5.1 for Alderlake P
 File: i915/mtl_dmc.bin
 Version: DMC API/APB ver 2 release 11 for Meteorlake
 
+File: i915/mtl_guc_70.bin
+Version: GuC API/APB ver 70.6.6 for Meteorlake
+
 License: Redistributable. See LICENSE.i915 for details
 --------------------------------------------------------------------------
 
