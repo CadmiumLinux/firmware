@@ -2051,6 +2051,8 @@ File: amdgpu/gc_11_0_1_pfp.bin
 File: amdgpu/gc_11_0_1_rlc.bin
 File: amdgpu/dcn_3_1_4_dmcub.bin
 File: amdgpu/dcn_3_1_6_dmcub.bin
+File: amdgpu/psp_13_0_4_ta.bin
+File: amdgpu/psp_13_0_4_toc.bin
 File: amdgpu/psp_13_0_8_asd.bin
 File: amdgpu/psp_13_0_8_ta.bin
 File: amdgpu/psp_13_0_8_toc.bin
