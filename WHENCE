@@ -2042,6 +2042,13 @@ File: amdgpu/gc_10_3_7_mec.bin
 File: amdgpu/gc_10_3_7_mec2.bin
 File: amdgpu/gc_10_3_7_pfp.bin
 File: amdgpu/gc_10_3_7_rlc.bin
+File: amdgpu/gc_11_0_1_imu.bin
+File: amdgpu/gc_11_0_1_me.bin
+File: amdgpu/gc_11_0_1_mec.bin
+File: amdgpu/gc_11_0_1_mes.bin
+File: amdgpu/gc_11_0_1_mes1.bin
+File: amdgpu/gc_11_0_1_pfp.bin
+File: amdgpu/gc_11_0_1_rlc.bin
 File: amdgpu/dcn_3_1_4_dmcub.bin
 File: amdgpu/dcn_3_1_6_dmcub.bin
 File: amdgpu/psp_13_0_8_asd.bin
