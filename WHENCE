@@ -2951,9 +2951,9 @@ File:intel/ibt-0040-0041.ddc
 Version: BT_GarfieldPeak_REL67068
 
 File:intel/ibt-0040-4150.sfi
-Version: BT_Solar_JnP2_REL67068
+Version: BT_Solar_JnP2_REL68350
 File:intel/ibt-0040-4150.ddc
-Version: BT_Solar_JnP2_REL67068
+Version: BT_Solar_JnP2_REL68350
 
 Licence: Redistributable. See LICENCE.ibt_firmware for details
 
