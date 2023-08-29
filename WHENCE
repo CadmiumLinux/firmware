@@ -3464,7 +3464,7 @@ Version: GuC API/APB ver 70.5.1 for Alderlake P
 
 
 File: i915/mtl_dmc.bin
-Version: DMC API/APB ver 2 release 13 for Meteorlake
+Version: DMC API/APB ver 2 release 16 for Meteorlake
 
 File: i915/mtl_guc_70.bin
 Version: GuC API/APB ver 70.8.0 for Meteorlake
