@@ -29,7 +29,10 @@ def list_whence():
                         continue
 
 def list_git():
-    with os.popen('git ls-files') as git_files:
+    ls_command = ('git ls-files' if os.path.exists('.git')
+        else "find . -type f,l -printf '%P\n'")
+
+    with os.popen(ls_command) as git_files:
         for line in git_files:
             yield line.rstrip('\n')
 
