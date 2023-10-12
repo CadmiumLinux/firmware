@@ -2965,6 +2965,11 @@ Version: BT_Solar_JnP2_REL68350
 File:intel/ibt-0040-4150.ddc
 Version: BT_Solar_JnP2_REL68350
 
+File:intel/ibt-0291-0291.sfi
+Version: BT_GalePeak_REL5822
+File:intel/ibt-0291-0291.ddc
+Version: BT_GalePeak_REL5822
+
 Licence: Redistributable. See LICENCE.ibt_firmware for details
 
 File: rtl_bt/rtl8822cu_fw.bin
