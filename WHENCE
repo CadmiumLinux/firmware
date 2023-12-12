@@ -3493,7 +3493,7 @@ File: i915/dg2_guc_70.bin
 Version: GuC API/APB ver 70.13.1 for DG2
 
 File: i915/mtl_dmc.bin
-Version: DMC API/APB ver 2 release 17 for Meteorlake
+Version: DMC API/APB ver 2 release 16 for Meteorlake
 
 File: i915/mtl_guc_70.bin
 Version: GuC API/APB ver 70.13.1 for Meteorlake
