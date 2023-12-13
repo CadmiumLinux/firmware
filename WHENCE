@@ -1145,6 +1145,9 @@ File: iwlwifi-ma-b0-gf-a0.pnvm
 File: iwlwifi-gl-c0-fm-c0-86.ucode
 Version: 83.1c10a9e3.0
 
+File: iwlwifi-gl-c0-fm-c0-87.ucode
+Version: 87.df8d4066.0
+
 File: iwlwifi-gl-c0-fm-c0.pnvm
 
 Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
