@@ -3638,6 +3638,15 @@ Licence: Redistributable. See LICENCE.mediatek for details.
 
 --------------------------------------------------------------------------
 
+Driver: mt7925 - MediaTek MT7925 bluetooth chipset
+
+File: mediatek/mt7925/BT_RAM_CODE_MT7925_1_1_hdr.bin
+Version: 20231227094014
+
+Licence: Redistributable. See LICENCE.mediatek for details.
+
+--------------------------------------------------------------------------
+
 Driver: venus - Qualcomm Venus video codec accelerator
 
 File: qcom/venus-5.2/venus.mdt
