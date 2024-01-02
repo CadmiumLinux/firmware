@@ -40,7 +40,7 @@ repository contents.
 When picking firmware, please confirm that the license is still right / sane.
 Licenses here have been copied to chromiumos-overlay:
 
-https://chromium.googlesource.com/chromiumos/overlays/chromiumos-overlay/+/refs/heads/master/licenses/
+https://chromium.googlesource.com/chromiumos/overlays/chromiumos-overlay/+/HEAD/licenses/
 
 You should confirm that:
 * The license here still matches the one in chromiumos-overlay.
@@ -93,7 +93,7 @@ more likely that someone upstream will fix a problem and we'll get the fix
 through stable merges.
 
 [Chrome OS kernel upstream process]: https://chromium.googlesource.com/chromiumos/docs/+/master/kernel_development.md#UPSTREAM_BACKPORT_FROMLIST_and-you
-[linux-firmware ebuild file]: https://chromium.googlesource.com/chromiumos/overlays/chromiumos-overlay/+/refs/heads/master/sys-kernel/linux-firmware/linux-firmware-9999.ebuild
+[linux-firmware ebuild file]: https://chromium.googlesource.com/chromiumos/overlays/chromiumos-overlay/+/HEAD/sys-kernel/linux-firmware/linux-firmware-9999.ebuild
 [README]: ./README
 [upstream WHENCE]: https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/WHENCE
 [WHENCE]: ./WHENCE
