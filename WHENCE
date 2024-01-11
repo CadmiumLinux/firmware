@@ -2992,6 +2992,11 @@ Version: BT_GalePeak_REL5822
 File:intel/ibt-0291-0291.ddc
 Version: BT_GalePeak_REL5822
 
+File:intel/ibt-0180-0041.sfi
+Version: BT_Mgr_GfP2_REL90033
+File:intel/ibt-0180-0041.ddc
+Version: BT_Mgr_GfP2_REL90033
+
 Licence: Redistributable. See LICENCE.ibt_firmware for details
 
 File: rtl_bt/rtl8822cu_fw.bin
