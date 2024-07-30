@@ -2953,14 +2953,7 @@ File: intel/ibt-hw-37.8.10-fw-1.10.3.11.e.bseq
 Version: BT_StonePeak_D0_REL_50_0002
 File: intel/ibt-hw-37.8.10-fw-22.50.19.14.f.bseq
 Version: BT_StonePeak_D1_REL_67_1278
-File: intel/ibt-17-16-1.sfi
-Version: BT_JeffersonPeak_B0_B0_REL20425
-File: intel/ibt-17-16-1.ddc
-Version: BT_JeffersonPeak_B0_B0_REL20425
-File: intel/ibt-17-2.sfi
-Version: BT_JeffersonPeak_B0_B0_REL20425
-File: intel/ibt-17-2.ddc
-Version: BT_JeffersonPeak_B0_B0_REL20425
+
 File: intel/ibt-17-0-1.sfi
 Version: BT_JeffersonPeak_A0_B0_REL0201
 File: intel/ibt-17-0-1.ddc
@@ -2969,14 +2962,18 @@ File: intel/ibt-17-1.sfi
 Version: BT_JeffersonPeak_A0_B0_REL0201
 File: intel/ibt-17-1.ddc
 Version: BT_JeffersonPeak_A0_B0_REL0201
+
+File: intel/ibt-17-16-1.sfi
+File: intel/ibt-17-16-1.ddc
+File: intel/ibt-17-2.sfi
+File: intel/ibt-17-2.ddc
 File: intel/ibt-18-16-1.sfi
-Version: BT_ThunderPeak_B0_B0_REL20425
 File: intel/ibt-18-16-1.ddc
-Version: BT_ThunderPeak_B0_B0_REL20425
 File: intel/ibt-18-2.sfi
-Version: BT_ThunderPeak_B0_B0_REL20425
 File: intel/ibt-18-2.ddc
-Version: BT_ThunderPeak_B0_B0_REL20425
+Version: BT_Pulsar_REL20444_22.20.2427.20444
+
+
 File: intel/ibt-18-0-1.sfi
 Version: BT_ThunderPeak_A0_B0_REL0186
 File: intel/ibt-18-0-1.ddc
