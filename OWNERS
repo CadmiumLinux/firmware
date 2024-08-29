@@ -1,10 +1,11 @@
+# WiFi linux-firmware owners
+include chromiumos/owners:v1:/wifi/OWNERS.linux_firmware
 alainm@chromium.org
 abhishekpandit@chromium.org
 apusaka@chromium.org
 billyzhao@chromium.org
 briannorris@chromium.org
 dianders@chromium.org
-druth@chromium.org
 grundler@chromium.org
 howardchung@chromium.org
 josephsih@chromium.org
@@ -12,11 +13,8 @@ jsbarnes@chromium.org
 levinale@chromium.org
 marcheu@chromium.org
 martinroth@chromium.org
-matthewmwang@chromium.org
-mcchou@chromium.org
 michaelfsun@google.com
 mmandlik@chromium.org
-norvez@chromium.org
 pmalani@chromium.org
 rrangel@chromium.org
 rajatja@chromium.org
