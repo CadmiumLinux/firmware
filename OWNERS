@@ -3,7 +3,6 @@ include chromiumos/owners:v1:/wifi/OWNERS.linux_firmware
 alainm@chromium.org
 abhishekpandit@chromium.org
 apusaka@chromium.org
-billyzhao@chromium.org
 briannorris@chromium.org
 dianders@chromium.org
 grundler@chromium.org
